@@ -16,7 +16,7 @@ Use Mediapipe Pose tracking and LSTM networks to classify abnormal actions
 
 
 ## References
-[Mediapipe] (https://google.github.io/mediapipe/)
+[Mediapipe](https://google.github.io/mediapipe/)
 <br>
 [Head pose estimation Nicolai Nielsen](https://www.youtube.com/watch?v=-toNMaS4SeQ)
 <br>
