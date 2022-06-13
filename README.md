@@ -4,14 +4,13 @@
 Use Mediapipe facial landmarks detection to determine abnormal face movements
 ![grab-landing-page](https://github.com/nkluan/AI-Proctor/blob/main/Log%20Video/gif/front_cam_result.gif)
 
-
-
+<br>
 
 ## Side camera
 Use Mediapipe Pose tracking and LSTM networks to classify abnormal actions
 ![grab-landing-page](https://github.com/nkluan/AI-Proctor/blob/main/Log%20Video/gif/side_cam_resulf.gif)
 
-
+<br><br>
 
 
 ## References
