@@ -1,4 +1,5 @@
 # AI-Proctor
+Detect student anomaliy actions from cameras in online exams
 
 ## Front camera
 Use Mediapipe facial landmarks detection to determine abnormal face movements
@@ -14,7 +15,8 @@ Use Mediapipe Pose tracking and LSTM networks to classify abnormal actions
 
 
 ## References
-
+[Mediapipe] (https://google.github.io/mediapipe/)
+<br>
 [Head pose estimation Nicolai Nielsen](https://www.youtube.com/watch?v=-toNMaS4SeQ)
 <br>
 [Action recognition Nicholas Renotte](https://www.youtube.com/watch?v=doDUihpj6ro)
