@@ -1,6 +1,6 @@
 # AI-Proctor
 Detect student anomaliy actions from cameras in online exams
-
+<br>
 ## Front camera
 Use Mediapipe facial landmarks detection to determine abnormal face movements
 ![grab-landing-page](https://github.com/nkluan/AI-Proctor/blob/main/Log%20Video/gif/front_cam_result.gif)
