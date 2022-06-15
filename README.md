@@ -1,5 +1,5 @@
 # AI-Proctor
-Detect student anomaliy actions from cameras in online exams
+Detect student anomaly actions from cameras in online exams
 <br><br>
 
 ## Front camera
